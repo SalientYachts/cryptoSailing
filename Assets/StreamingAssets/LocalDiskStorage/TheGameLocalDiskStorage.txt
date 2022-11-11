@@ -1,0 +1,21 @@
+{
+    "_isRegistered": true,
+    "Gold": 100,
+    "Prizes": [
+        {
+            "_ownerAddress": "",
+            "_tokenId": 0,
+            "_metadata": ""
+        },
+        {
+            "_ownerAddress": "",
+            "_tokenId": 0,
+            "_metadata": ""
+        },
+        {
+            "_ownerAddress": "",
+            "_tokenId": 0,
+            "_metadata": ""
+        }
+    ]
+}
